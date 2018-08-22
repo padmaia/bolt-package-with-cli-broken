@@ -1,0 +1,10 @@
+{
+  "name": "uses-the-cli",
+  "version": "1.0.0",
+  "scripts": {
+    "start": "run-cli"
+  },
+  "devDependencies": {
+    "exposes-a-cli": "1.0.0"
+  }
+}

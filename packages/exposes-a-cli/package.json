@@ -1,0 +1,7 @@
+{
+  "name": "exposes-a-cli",
+  "version": "1.0.0",
+  "bin": {
+    "run-cli": "cli.js"
+  }
+}
