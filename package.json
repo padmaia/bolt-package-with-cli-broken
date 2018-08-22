@@ -7,5 +7,8 @@
     "workspaces": [
       "packages/*"
     ]
+  },
+  "scripts": {
+    "show-the-issue": "bolt ws run run-exposed-cli --only uses-the-cli"
   }
 }

@@ -1,8 +1,9 @@
 {
   "name": "uses-the-cli",
   "version": "1.0.0",
+  "license": "MIT",
   "scripts": {
-    "start": "run-cli"
+    "run-exposed-cli": "run-cli"
   },
   "devDependencies": {
     "exposes-a-cli": "1.0.0"
